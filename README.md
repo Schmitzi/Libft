@@ -6,6 +6,13 @@
    Libft
 </h1>
 
+<p align="center">
+    ![Static Badge](https://img.shields.io/badge/100%2F100-green?color=green)
+    ![Static Badge](https://img.shields.io/badge/language-%20C-blue)
+</p>
+
+
+
 ## Description
 Libft is a project at 42 that involves creating your own C library containing a set of standard functions that can be used in future projects.
 
