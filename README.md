@@ -8,7 +8,7 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/language-%20C-blue" />
-    <img src="https://img.shields.io/badge/100%2F100-green" />
+    <img src="https://img.shields.io/badge/122%2F100-green" />
 </p>
 
 
