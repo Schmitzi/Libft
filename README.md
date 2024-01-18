@@ -7,8 +7,9 @@
 </h1>
 
 <p align="center">
-    ![Static Badge](https://img.shields.io/badge/100%2F100-green?color=green)
-    ![Static Badge](https://img.shields.io/badge/language-%20C-blue)
+    <img src=https://img.shields.io/badge/100%2F100-green?colo)
+    ()
+    <img src="https://img.shields.io/badge/100%2F100-green" />
 </p>
 
 
