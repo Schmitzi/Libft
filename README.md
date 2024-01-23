@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-   Libft
+   libft
 </h1>
 
 <p align="center">
